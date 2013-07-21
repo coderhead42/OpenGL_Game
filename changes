@@ -1,0 +1,17 @@
+completeReset
+Vaedr currentLevel removed.
+global currLevel = 0
+skybox draw
+SkyboxTex 2d vector
+inittexture
+skyboxdraw in drawscene
+case 'r' : completereset
+set setStrength = ..../currLevel+1
+Level 1 changed.
+
+
+
+code//
+currLevel = currLevel+1;
+completeReset(currLevel);
+//
