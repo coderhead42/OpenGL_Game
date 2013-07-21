@@ -21,16 +21,29 @@ Commands
 ===========
 
 Arrow Keys (Up/Down) - To move the character forward/backward
-           (Left/Right) - to move the character left/right
+
+Arrow Keys (Left/Right) - to move the character left/right
+
 Space - Jump
+
 c - to change camera views.
-  after pressing -
+  
+  after pressing 'n' times -
+    
     0) default view
+    
     1) first person view
+    
     2) tower view
+    
     3) third person
+    
     4) tile view
+    
     5) Helicopter View
-      - pressing w/a/s/d helps moving around helicopter left,right,forward,backward in the 3d world
+    
+       - pressing w/a/s/d helps moving around helicopter left,right,forward,backward in the 3d world
+
 r - to reset the game
+
 z - to activate the zero gravity mode
